@@ -1,0 +1,3 @@
+[submodule "themes/PaperMod-fa"]
+	path = themes/PaperMod-fa
+	url = https://github.com/mehrdad-dev/hugo-PaperMod-fa.git
