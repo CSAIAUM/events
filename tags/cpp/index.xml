@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>cpp on رویداد های انجمن علمی کامپیوتر</title>
+    <link>https://csaiaum.github.io/events/tags/cpp/</link>
+    <description>Recent content in cpp on رویداد های انجمن علمی کامپیوتر</description>
+    <image>
+      <url>https://csaiaum.github.io/events/papermod-cover.png</url>
+      <link>https://csaiaum.github.io/events/papermod-cover.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 09 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://csaiaum.github.io/events/tags/cpp/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>کارگاه آموزشی کار با کتابخانه STL در C&#43;&#43;</title>
+      <link>https://csaiaum.github.io/events/posts/stl-c&#43;&#43;/</link>
+      <pubDate>Mon, 09 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://csaiaum.github.io/events/posts/stl-c&#43;&#43;/</guid>
+      <description> کارگاه تکمیلی پیشرفته</description>
+    </item>
+    
+  </channel>
+</rss>

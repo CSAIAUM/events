@@ -9,7 +9,16 @@
       <link>https://csaiaum.github.io/events/papermod-cover.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 05 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://csaiaum.github.io/events/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 09 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://csaiaum.github.io/events/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>کارگاه آموزشی کار با کتابخانه STL در C&#43;&#43;</title>
+      <link>https://csaiaum.github.io/events/posts/stl-c&#43;&#43;/</link>
+      <pubDate>Mon, 09 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://csaiaum.github.io/events/posts/stl-c&#43;&#43;/</guid>
+      <description> کارگاه تکمیلی پیشرفته</description>
+    </item>
+    
     <item>
       <title>وبینار آشنایی با گیت هاب و اوپن سورس</title>
       <link>https://csaiaum.github.io/events/posts/github-opensource/</link>
