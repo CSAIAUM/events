@@ -3,7 +3,7 @@ author: "انجمن علمی کامپیوتر"
 title: کارگاه مجازی آموزشی برنامه نویسی پایتون
 date: "2021-08-09"
 description: " کارگاه آموزشی پایتون"
-tags: ["Python"]
+tags: ["Python", "پایتون"]
 categories: ["کارگاه"]
 # series: ["Themes Guide"]
 aliases: ["کارگاه برنامه نویسی پایتون"]
