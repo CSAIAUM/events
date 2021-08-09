@@ -11,12 +11,30 @@
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Mon, 09 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://csaiaum.github.io/events/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>کارگاه آموزشی روش تحقیق و مقاله نویسی</title>
+      <link>https://csaiaum.github.io/events/posts/paper_lab/</link>
+      <pubDate>Mon, 09 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://csaiaum.github.io/events/posts/paper_lab/</guid>
+      <description>کارگاه آموزشی روش تحقیق و مقاله نویسی </description>
+    </item>
+    
+    <item>
       <title>کارگاه آموزشی کار با کتابخانه STL در C&#43;&#43;</title>
       <link>https://csaiaum.github.io/events/posts/stl-c&#43;&#43;/</link>
       <pubDate>Mon, 09 Aug 2021 00:00:00 +0000</pubDate>
       
       <guid>https://csaiaum.github.io/events/posts/stl-c&#43;&#43;/</guid>
       <description> کارگاه تکمیلی پیشرفته</description>
+    </item>
+    
+    <item>
+      <title>کارگاه مجازی آموزشی برنامه نویسی پایتون</title>
+      <link>https://csaiaum.github.io/events/posts/python-lab/</link>
+      <pubDate>Mon, 09 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://csaiaum.github.io/events/posts/python-lab/</guid>
+      <description> کارگاه آموزشی پایتون</description>
     </item>
     
     <item>
