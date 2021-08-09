@@ -2,8 +2,8 @@
 author: "انجمن علمی کامپیوتر"
 title: کارگاه آموزشی کار با کتابخانه STL در C++
 date: "2021-08-09"
-description: " کارگاه تکمیلی پیشرفته"
-tags: ["پیشرفته","STL", "C++"]
+description: " کارگاه مسابقات ACM"
+tags: ["ACM","پیشرفته","STL", "C++"]
 categories: ["کارگاه"]
 # series: ["Themes Guide"]
 aliases: ["کارگاه آموزشی کار با کتابخانه STL در C++"]
