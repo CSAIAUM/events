@@ -3,7 +3,7 @@ author: "انجمن علمی کامپیوتر"
 title: کارگاه آموزشی کار با کتابخانه STL در C++
 date: "2021-08-09"
 description: " کارگاه تکمیلی پیشرفته"
-tags: ["پیشرفته","STL", "C++"]
+tags: ["برنامه نویسی","STL", "C++", "cpp"]
 categories: ["کارگاه"]
 # series: ["Themes Guide"]
 aliases: ["کارگاه آموزشی کار با کتابخانه STL در C++"]
@@ -25,6 +25,6 @@ searchHidden: false
 
 ## پوستر 
 
-![takmili-pishrafteh-shabnam-shadroo](../images/STL-C++-iaum.jpg)
+![STL](../images/STL-C++-iaum.jpg)
 
 ## ویدئو
