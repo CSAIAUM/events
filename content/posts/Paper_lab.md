@@ -3,7 +3,7 @@ author: "انجمن علمی کامپیوتر"
 title: کارگاه آموزشی روش تحقیق و مقاله نویسی 
 date: "2021-08-09"
 description: "کارگاه آموزشی روش تحقیق و مقاله نویسی "
-tags: ["Paper"]
+tags: ["Paper", "مقاله"]
 categories: ["کارگاه"]
 # series: ["Themes Guide"]
 aliases: ["روش تحقیق و مقاله نویسی"]
