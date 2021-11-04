@@ -21,7 +21,7 @@ searchHidden: false
 مهندس ریحانه معارف دوست
 
 
-![workshop](../images/photo_2021-11-04_21-37-03.jpg)
+![workshop](../images/photo_2021-11-04_22-01-47.jpg)
 
 
 برای اطلاعات بیشتر به کانال انجمن علمی مراجعه کنید:
