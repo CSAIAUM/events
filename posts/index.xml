@@ -9,7 +9,52 @@
       <link>https://csaiaum.github.io/events/papermod-cover.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 09 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://csaiaum.github.io/events/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 04 Oct 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://csaiaum.github.io/events/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>دوره مقدماتی html/css</title>
+      <link>https://csaiaum.github.io/events/posts/htmlcss/</link>
+      <pubDate>Mon, 04 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://csaiaum.github.io/events/posts/htmlcss/</guid>
+      <description> دوره مقدماتی html/css</description>
+    </item>
+    
+    <item>
+      <title>ساخت وب سایت و رزومه شخصی و رزومه آنلاین با گیت هاب</title>
+      <link>https://csaiaum.github.io/events/posts/git-github-jekyll-hugo/</link>
+      <pubDate>Mon, 04 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://csaiaum.github.io/events/posts/git-github-jekyll-hugo/</guid>
+      <description> ساخت وب سایت و رزومه شخصی و رزومه آنلاین با گیت هاب</description>
+    </item>
+    
+    <item>
+      <title>مسابقه برنامه نویسی دانشجویی</title>
+      <link>https://csaiaum.github.io/events/posts/contest1/</link>
+      <pubDate>Mon, 04 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://csaiaum.github.io/events/posts/contest1/</guid>
+      <description> مسابقه برنامه نویسی دانشجویی</description>
+    </item>
+    
+    <item>
+      <title>وبینار آشنایی با یادگیری ماشین و علم داده</title>
+      <link>https://csaiaum.github.io/events/posts/datascience1/</link>
+      <pubDate>Mon, 04 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://csaiaum.github.io/events/posts/datascience1/</guid>
+      <description> وبینار آشنایی با یادگیری ماشین و علم داده</description>
+    </item>
+    
+    <item>
+      <title>کارگاه برنامه نویسی آسان با flowgorithm</title>
+      <link>https://csaiaum.github.io/events/posts/flowgorithm/</link>
+      <pubDate>Mon, 04 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://csaiaum.github.io/events/posts/flowgorithm/</guid>
+      <description> کارگاه برنامه نویسی آسان با flowgorithm</description>
+    </item>
+    
     <item>
       <title>کارگاه آموزشی روش تحقیق و مقاله نویسی</title>
       <link>https://csaiaum.github.io/events/posts/paper_lab/</link>

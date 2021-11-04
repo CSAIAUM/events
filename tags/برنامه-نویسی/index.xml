@@ -9,7 +9,25 @@
       <link>https://csaiaum.github.io/events/papermod-cover.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 09 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://csaiaum.github.io/events/tags/%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D9%87-%D9%86%D9%88%DB%8C%D8%B3%DB%8C/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 04 Oct 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://csaiaum.github.io/events/tags/%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D9%87-%D9%86%D9%88%DB%8C%D8%B3%DB%8C/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>مسابقه برنامه نویسی دانشجویی</title>
+      <link>https://csaiaum.github.io/events/posts/contest1/</link>
+      <pubDate>Mon, 04 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://csaiaum.github.io/events/posts/contest1/</guid>
+      <description> مسابقه برنامه نویسی دانشجویی</description>
+    </item>
+    
+    <item>
+      <title>کارگاه برنامه نویسی آسان با flowgorithm</title>
+      <link>https://csaiaum.github.io/events/posts/flowgorithm/</link>
+      <pubDate>Mon, 04 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://csaiaum.github.io/events/posts/flowgorithm/</guid>
+      <description> کارگاه برنامه نویسی آسان با flowgorithm</description>
+    </item>
+    
     <item>
       <title>کارگاه آموزشی کار با کتابخانه STL در C&#43;&#43;</title>
       <link>https://csaiaum.github.io/events/posts/stl-c&#43;&#43;/</link>

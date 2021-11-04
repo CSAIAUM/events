@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>گیت on رویداد های انجمن علمی کامپیوتر</title>
+    <link>https://csaiaum.github.io/events/tags/%DA%AF%DB%8C%D8%AA/</link>
+    <description>Recent content in گیت on رویداد های انجمن علمی کامپیوتر</description>
+    <image>
+      <url>https://csaiaum.github.io/events/papermod-cover.png</url>
+      <link>https://csaiaum.github.io/events/papermod-cover.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 04 Oct 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://csaiaum.github.io/events/tags/%DA%AF%DB%8C%D8%AA/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ساخت وب سایت و رزومه شخصی و رزومه آنلاین با گیت هاب</title>
+      <link>https://csaiaum.github.io/events/posts/git-github-jekyll-hugo/</link>
+      <pubDate>Mon, 04 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://csaiaum.github.io/events/posts/git-github-jekyll-hugo/</guid>
+      <description> ساخت وب سایت و رزومه شخصی و رزومه آنلاین با گیت هاب</description>
+    </item>
+    
+  </channel>
+</rss>

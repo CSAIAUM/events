@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>مسابقه on رویداد های انجمن علمی کامپیوتر</title>
+    <link>https://csaiaum.github.io/events/tags/%D9%85%D8%B3%D8%A7%D8%A8%D9%82%D9%87/</link>
+    <description>Recent content in مسابقه on رویداد های انجمن علمی کامپیوتر</description>
+    <image>
+      <url>https://csaiaum.github.io/events/papermod-cover.png</url>
+      <link>https://csaiaum.github.io/events/papermod-cover.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 04 Oct 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://csaiaum.github.io/events/tags/%D9%85%D8%B3%D8%A7%D8%A8%D9%82%D9%87/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>مسابقه برنامه نویسی دانشجویی</title>
+      <link>https://csaiaum.github.io/events/posts/contest1/</link>
+      <pubDate>Mon, 04 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://csaiaum.github.io/events/posts/contest1/</guid>
+      <description> مسابقه برنامه نویسی دانشجویی</description>
+    </item>
+    
+  </channel>
+</rss>
